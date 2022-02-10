@@ -1,0 +1,14 @@
+#Mapty
+
+From the course The Complete JavaScript Course 2022: From Zero to Expert! by Jonas Schmedtmann
+
+Additional features added
+
+* Hide the form when esc is pressed
+* Properly load workout objects from local storage
+* Pop up error messages rather than using alert
+* Edit a workout
+* Delete a workout
+* Sort workouts
+* Reset all data
+* Zoom map to show all workouts
